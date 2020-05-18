@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_cdltd_library.library_user" name="x_cdltd_library.library_user">e6df5066203c10107f444d0e8a144f0e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-18 10:40:40</sys_created_on>
+        <sys_id>aadf5066203c10107f444d0e8a144f10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e6df5066203c10107f444d0e8a144f0e</sys_name>
+        <sys_package display_value="Library" source="x_cdltd_library">0c8e9c26203c10107f444d0e8a144f50</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Library">0c8e9c26203c10107f444d0e8a144f50</sys_scope>
+        <sys_update_name>sys_embedded_help_role_aadf5066203c10107f444d0e8a144f10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-18 10:40:40</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

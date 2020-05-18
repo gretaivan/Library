@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="author" label="Author" language="en" table="x_cdltd_library_librarybasetable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>author</element>
+            <help/>
+            <hint/>
+            <label>Author</label>
+            <language>en</language>
+            <name>x_cdltd_library_librarybasetable</name>
+            <plural>Authors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 10:55:59</sys_created_on>
+            <sys_id>7653ece6203c10107f444d0e8a144f72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Author</sys_name>
+            <sys_package display_value="Library" source="x_cdltd_library">0c8e9c26203c10107f444d0e8a144f50</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Library">0c8e9c26203c10107f444d0e8a144f50</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_library_librarybasetable_author_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 10:55:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
