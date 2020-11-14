@@ -1,0 +1,15 @@
+ISBN: 1001
+Title:mas
+Borrowing Date: 15/05/2018 12:05:00
+Reader name: Reader ID: null
+Name: neem
+Mobile Number: 
+Email Address: 
+Total fine: £179.5ISBN: 1002
+Title:sadfa
+Borrowing Date: 29/04/2018 12:00:00
+Reader name: Reader ID: null
+Name: sarah
+Mobile Number: 
+Email Address: 
+Total fine: £372.0
